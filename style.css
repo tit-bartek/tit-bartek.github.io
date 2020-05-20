@@ -1,0 +1,85 @@
+body
+{
+	background-color: gray;
+	text-align: center;
+}
+
+.logo
+{
+	background-color: pink;
+	margin-top: 50px;
+	font-size: 100px;
+	padding: 15px;
+	text-align: center;
+}
+
+.cos
+{
+	text-align: center;
+}
+
+.jeden
+{
+	background-color: lightblue;
+	margin: 10px;
+	width: 32%;
+	height: 500px; 
+	float: left;
+	font-size: 400px;
+	color: black;
+}
+
+.jeden:hover
+{
+	background-color: blue;
+	margin: 10px;
+	width: 32%;
+	height: 500px; 
+	float: left;
+	font-size: 400px;
+	color: white;
+}
+
+.dwa
+{
+	background-color: lightblue;
+	margin: 10px;
+	height: 50%;
+	float: left;
+	width: 32%;
+	height: 500px; 
+	font-size: 400px;
+}
+
+.dwa:hover
+{
+	background-color: blue;
+	margin: 10px;
+	width: 32%;
+	height: 500px; 
+	float: left;
+	font-size: 400px;
+	color: white;
+}
+
+.trzy
+{
+	background-color: lightblue;
+	margin: 10px;
+	height: 50%;
+	float: left;
+	width: 32%;
+	height: 500px; 
+	font-size: 400px;
+}
+
+.trzy:hover
+{
+	background-color: blue;
+	margin: 10px;
+	width: 32%;
+	height: 500px; 
+	float: left;
+	font-size: 400px;
+	color: white;
+}
